@@ -73,6 +73,7 @@ PRODUCT_PROPERTY_OVERRIDES += \
    debug.sf.latch_unsignaled=1 \
    debug.sf.frame_rate_multiple_threshold=120 \
    ro.gfx.driver.1=com.qualcomm.qti.gpudrivers.sm6150.api30 \
+   ro.surface_flinger.protected_contents=true \
    ro.vendor.display.ad=1 \
    ro.vendor.display.ad.sdr_calib_data=/vendor/etc/sdr_config.cfg \
    ro.vendor.display.ad.hdr_calib_data=/vendor/etc/hdr_config.cfg \
